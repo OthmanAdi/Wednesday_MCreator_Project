@@ -1,0 +1,9 @@
+{
+  "_fv": 34,
+  "_type": "command",
+  "definition": {
+    "commandName": "mycommand",
+    "permissionLevel": "No requirement",
+    "argsxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"args_start\" deletable=\"false\" x=\"40\" y=\"40\"><next><block type=\"entity\"><field name=\"name\">targets</field><field name=\"type\">entities</field><statement name=\"args\"><block type=\"message\"><field name=\"name\">displayname</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\"></field></block></statement><next><block type=\"call_procedure\"><field name=\"procedure\"></field></block></next></block></statement></block></next></block></xml>"
+  }
+}
